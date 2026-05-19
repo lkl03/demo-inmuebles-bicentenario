@@ -1,2 +1,7 @@
-# demo-inmuebles-bicentenario
-Demo web para INMUEBLES BICENTENARIO — diseñada por eterlab.
+# INMUEBLES BICENTENARIO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
